@@ -1,0 +1,8 @@
+touch
+:wq
+
+
+
+
+
+git status
